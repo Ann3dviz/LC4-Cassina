@@ -1,0 +1,14 @@
+﻿D:\Projects\t$m$p$$$\Cassina.max
+D:\Projects\t$m$p$$$\MAXFILES.TXT
+D:\Textures\HDRI\artist_workshop_4k.hdr
+D:\Textures\Megascans\Downloaded\surface\Metal_Bare_sfekebvc\sfekebvc_4K_Albedo.jpg
+D:\Textures\Megascans\Downloaded\surface\Metal_Bare_sfekebvc\sfekebvc_4K_Roughness.jpg
+D:\Textures\Megascans\Downloaded\surface\Metal_Bare_sfekebvc\sfekebvc_4K_Normal.jpg
+D:\Textures\Megascans\Downloaded\surface\Metal_Bare_sfekebvc\sfekebvc_4K_Displacement.exr
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_AO.jpg
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_Albedo.jpg
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_Roughness.jpg
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_Specular.jpg
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_Normal.jpg
+D:\Textures\Megascans\Downloaded\surface\fabric_leather_oi2veqp0\oi2veqp_2K_Displacement.exr
+C:\Program Files\Corona\lut\Adanmq_Advantix_100.cube
